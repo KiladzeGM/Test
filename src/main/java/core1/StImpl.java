@@ -1,2 +1,4 @@
-package core1;public class StImpl {
+package core1;
+
+public class StImpl implements St {
 }
